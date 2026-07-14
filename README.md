@@ -1,5 +1,5 @@
 # Project Progress
 
-Issue #2 completed.
+Issue #3 completed.
 
-Implemented User Authentication Module.
+Implemented Document Management Module.
