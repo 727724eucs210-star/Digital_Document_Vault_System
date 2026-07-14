@@ -1,5 +1,5 @@
 # Project Progress
 
-Issue #5 completed.
+Issue #6 completed.
 
-Implemented Dashboard and Audit Log Module.
+Implemented Global Exception Handling and API Documentation.
