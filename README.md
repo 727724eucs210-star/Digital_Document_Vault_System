@@ -1,1 +1,3 @@
-# Digital_Document_Vault_System
+## Project Progress
+
+Issue #1 completed.
