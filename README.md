@@ -1,5 +1,5 @@
 # Project Progress
 
-Issue #3 completed.
+Issue #4 completed.
 
-Implemented Document Management Module.
+Implemented Document Sharing and Access Control Module.
